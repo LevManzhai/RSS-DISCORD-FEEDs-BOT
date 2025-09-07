@@ -44,8 +44,8 @@ pip install feedparser requests
 ### 3. Get the script
 Download or clone this repository:
 ```bash
-git clone https://github.com/your-username/hltv-news-bot.git
-cd hltv-news-bot
+git clone https://github.com/LevManzhai/RSS-DISCORD-FEEDs-BOT.git
+cd RSS-DISCORD-FEEDs-BOT
 ```
 Or simply download the file `hltv_news.py` to your computer.
 
@@ -81,7 +81,7 @@ COLOR = 0x7CFC00
 ### 6. Run the bot
 In the project folder, run:
 ```bash
-python hltv_news.py
+python RSS.py
 ```
 
 The bot will:
@@ -125,3 +125,4 @@ The file `last_news.txt` must stay in the same directory as the script.
 3. Set your `WEBHOOK_URL` in the script.  
 4. (Optional) Change `RSS_URL`, bot name, or avatar.  
 5. Run the script → news goes straight to your Discord! 🚀
+

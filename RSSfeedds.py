@@ -6,7 +6,7 @@ import time
 import os
 
 RSS_URL = "https://www.hltv.org/rss/news"
-WEBHOOK_URL = "https://discord.com/api/webhooks/1413694406594134087/jV_QsuriQjfDE6uAaSRhQbk98xR_gBUjl20HNJRjMj7I4A8j4Yae3QWAyyDUjCW1xowt"
+WEBHOOK_URL = "Your webhook link"
 COLOR = 0x7CFC00  # light green
 
 LAST_NEWS_FILE = "last_news.txt"

@@ -1,4 +1,4 @@
-# HLTV NEWS Discord Bot
+# NEWS Discord Bot
 
 ## 📌 What does this script do?
 This Python script fetches the latest news from an RSS feed (by default, [HLTV.org](https://www.hltv.org/)) and automatically sends them to a **Discord channel** using a webhook.  
@@ -102,7 +102,7 @@ The bot will:
 
 ## 📸 Screenshots
 
-### Discord вывод
+### Discord output
 ![News in discors](screenshot1.png)
 
 
